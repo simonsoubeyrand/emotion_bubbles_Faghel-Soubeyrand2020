@@ -1,4 +1,4 @@
-# emotion_bubbles_Faghel-Soubeyrand2020
+## emotion_bubbles_Faghel-Soubeyrand2020
 This repository contains all scripts and functions to run the experiment used in [Faghel-Soubeyrand et al. (2020)](https://www.nature.com/articles/s41537-020-00116-1), 
 i.e., a facial emotion discrimination task with "Bubbles" stimuli (spatial frequency x spatial sampling; see [Gosselin & Schyns, 2001](https://www.sciencedirect.com/science/article/pii/S0042698901000979?via%3Dihub)). 
 
